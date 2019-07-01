@@ -1,0 +1,4 @@
+# Do not track the content of this files 
+.gitignore~
+.README.md.un~
+README.md~
