@@ -1,8 +1,4 @@
 # Do not track the content of this files 
-..gitignore.un~
 .gitignore~
-.index.js.un~
 .README.md.un~
-index.js~
 README.md~
-/node_modules
